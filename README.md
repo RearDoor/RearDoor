@@ -8,4 +8,4 @@ I then moved to browser automation for a chess bullet bot. Currently working on 
 
 I am learning CV and openvino to try do some aimbots in aimlabs. 
 
-I am also trying to beat free givaways somehow.
+Working on an email bot that is able to win any email contents.
